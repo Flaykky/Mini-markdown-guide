@@ -167,6 +167,13 @@ Hidden content.
 
 ---
 
+
+
+(Distributed under the MIT License. See [LICENSE](LICENSE) file for details.)
+
+
+
+
 ## Conclusion
 
 Congratulations! You now know the core Markdown elements to create well-formatted documents. For more details, explore the [CommonMark Spec](https://commonmark.org/) or your platform’s extended syntax.
